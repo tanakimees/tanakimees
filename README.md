@@ -5,7 +5,7 @@
 
 int **age** = 16;
 
-string **gender** = "male";
+bool **gender** = 0 //male 0 female 1
 
 int[] **birthdate** = { "2005", "05", "15" };
 
