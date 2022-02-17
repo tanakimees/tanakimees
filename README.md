@@ -2,6 +2,7 @@
 
 
 //data
+
 int age =           16;
 
 string gender =     "male";
