@@ -1,11 +1,11 @@
 ## //KRISTO TÄNAK
 
 
-### //data
+### *//data*
 
 int **age** = 16;
 
-bool **gender** = 0 //male 0 female 1
+bool **gender** = 0 *//male 0 female 1*
 
 int[] **birthdate** = { "2005", "05", "15" };
 
