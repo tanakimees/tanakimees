@@ -17,6 +17,8 @@ string **name** = "Kristo Tänak";
 
 [Sudoku](https://github.com/tanakimees/sudoku.git)
 
+[Cookie Clicker](https://github.com/tanakimees/cookieclicker.git)
+
 
 
 <!--
