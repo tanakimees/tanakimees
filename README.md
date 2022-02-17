@@ -1,7 +1,6 @@
 ## //Kristo Tänak
 
 
-
 //data
 
 int age =           16;
