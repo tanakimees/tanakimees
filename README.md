@@ -15,7 +15,7 @@ string **name** = "Kristo Tänak";
 
 ### *//projects*
 
-[Sudoku](https://github.com/tanakimees/sudoku.git).
+[Sudoku](https://github.com/tanakimees/sudoku.git)
 
 
 
