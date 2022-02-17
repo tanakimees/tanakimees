@@ -1,7 +1,7 @@
-## //Kristo Tänak
+## //KRISTO TÄNAK
 
 
-//data
+### //data
 
 int age =           16;
 
