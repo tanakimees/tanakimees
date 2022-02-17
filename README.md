@@ -41,9 +41,7 @@ languages.Add("JavaScript");
   
 [LinkedIn](https://www.linkedin.com/in/kristo-t%C3%A4nak-2934b5227/)
   
-
-
-
+tanak.kristo@gmail.com
 
 
 <!--
