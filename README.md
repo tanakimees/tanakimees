@@ -1,7 +1,7 @@
 ## //KRISTO TÄNAK
 
 
-### *//data*
+### *//DATA*
 
 int **age** = 16;
 
@@ -13,7 +13,7 @@ string **name** = "Kristo Tänak";
 
 ////////////////////////////////////////////////
 
-### *//projects*
+### *//PROJECTS*
 
 [Sudoku](https://github.com/tanakimees/sudoku.git)
 
@@ -21,7 +21,7 @@ string **name** = "Kristo Tänak";
 
 ////////////////////////////////////////////////
 
-### *//programming languages*
+### *//PROGRAMMING LANGUAGES*
 
 List<string> languages = new List<string>();
   
@@ -37,7 +37,7 @@ languages.Add("JavaScript");
   
 ////////////////////////////////////////////////
   
-### *//programming languages*
+### *//FUTURE PROJECTS*
   
 
 
