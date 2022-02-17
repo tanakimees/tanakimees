@@ -3,11 +3,11 @@
 
 ### //data
 
-int **age** =           16;
+int **age** = 16;
 
-string **gender** =     "male";
+string **gender** = "male";
 
-int[] **birthdate** =   { "2005", "05", "15" }
+int[] **birthdate** = { "2005", "05", "15" };
 
 
 
