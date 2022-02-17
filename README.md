@@ -27,6 +27,14 @@ List<string> languages = new List<string>();
   
 languages.Add("C#");
 
+languages.Add("SQL");
+  
+languages.Add("CSS");
+  
+languages.Add("Python");
+  
+languages.Add("JavaScript");
+
 
 
 <!--
