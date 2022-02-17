@@ -37,8 +37,11 @@ languages.Add("JavaScript");
   
 ////////////////////////////////////////////////////////////////////////////////////////////////
   
-### *//FUTURE PROJECTS*
+### *//CONTACT*
   
+[LinkedIn](https://www.linkedin.com/in/kristo-t%C3%A4nak-2934b5227/)
+  
+
 
 
 
