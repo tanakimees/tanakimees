@@ -1,8 +1,11 @@
 ## //Kristo Tänak
 
 //data
+
 int age =           16;
+
 string gender =     "male";
+
 int[] birthdate =   { "2005", "05", "15" }
 
 
