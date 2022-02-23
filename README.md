@@ -3,6 +3,8 @@
 
 ### *//DATA*
 
+string **mywebsite** = ["https://tanakimees.github.io/"](https://github.com/tanakimees/sudoku.git)
+
 int **age** = 16;
 
 bool **gender** = 0 *//male 0 female 1*
