@@ -3,7 +3,7 @@
 
 ### *//DATA*
 
-string **mywebsite** = ["https://tanakimees.github.io/"](https://github.com/tanakimees/sudoku.git)
+string **mywebsite** = ["https://tanakimees.github.io/";](https://tanakimees.github.io/)
 
 int **age** = 16;
 
