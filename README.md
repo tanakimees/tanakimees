@@ -44,19 +44,10 @@ languages.Add("JavaScript");
 [LinkedIn](https://www.linkedin.com/in/kristo-t%C3%A4nak-2934b5227/)
   
 tanak.kristo@gmail.com
-
-
-<!--
-**tanakimees/tanakimees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+/*
+  Hobbies: Driving around with vehicles such as ATV's or cars. Programming and designing websites, games and desktop applications. Weed.
+  Languages: Estonian, English. (Little bit of Russian aswell but it's not good. I can read and write and speak minimally).
+  Strong programming languages: C#, Python, CSS, HTML (I know HTML isn't a programming language but who cares).
+  Weak programming languages: C++, SQL, PHP.
+*/
