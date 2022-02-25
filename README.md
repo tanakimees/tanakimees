@@ -49,7 +49,7 @@ tanak.kristo@gmail.com
   
 /*
   
-  Hobbies: Driving around with vehicles such as ATV's or cars. Programming and designing websites, games and desktop applications. Weed.
+  Hobbies: Driving around with vehicles such as ATV's or cars. Programming and designing websites, games and desktop applications.
   
   Languages: Estonian, English. (Little bit of Russian aswell but it's not good. I can read and write and speak minimally).
   
