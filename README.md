@@ -29,7 +29,7 @@ languages.Add("C#");
 
 languages.Add("SQL");
   
-languages.Add("CSS");
+languages.Add("CSS");  //i know it's not a programming language
   
 languages.Add("Python");
   
