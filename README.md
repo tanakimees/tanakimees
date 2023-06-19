@@ -5,9 +5,9 @@
 
 string **mywebsite** = ["https://tanakimees.github.io/";](https://tanakimees.github.io/)
 
-int **age** = 16;
+int **age** = 18;
 
-bool **gender** = 0 *//male 0 female 1*
+bool **gender** = 0 *//male 1
 
 string **name** = "Kristo Tänak";
 
